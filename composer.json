@@ -1,6 +1,7 @@
 {
     "require-dev": {
         "behat/behat": "2.5.*@stable",
+        "shvetsgroup/parallelrunner": "^1.0",
         "squizlabs/php_codesniffer": "1.4.7",
         "instaclick/symfony2-coding-standard": "dev-remaster",
         "phpunit/phpunit": "3.7.28"
